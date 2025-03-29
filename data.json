@@ -3,17 +3,17 @@
     {
       "name": "Jio Hotstar",
       "logo": "https://i.ibb.co/ymjbLSHq/Picsart-25-03-29-15-30-10-207.jpg",
-      "url": "https://allinonereborn.com/test.m3u8?id=417"
+      "url": "https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201762957617&id=1002"
     },
     {
       "name": "Star Sports Hindi",
       "logo": "https://i.ibb.co/mr2hym1Z/Picsart-25-03-29-15-29-49-204.jpg",
-      "url": "https://hocdn.news/live/skyscric.m3u8"
+      "url": "https://002.fclplayer.online/live/csstream2/chunklist.m3u8?vidictid=201762957617&id=1002"
     },
     {
       "name": "Star Sports Hindi 2",
       "logo": "https://i.ibb.co/mr2hym1Z/Picsart-25-03-29-15-29-49-204.jpg",
-      "url": "https://allinonereborn.com/test.m3u8?id=16116"
+      "url": "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1743312833~acl=%2f*~data=hdntl~hmac=5cad298ffdabef4186e8bcbe023de48830b92bf22d6f3ee630aecd1d82688ba5/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=662800.m3u8"
     },
     {
       "name": "Fox Cricket",
@@ -23,7 +23,7 @@
     {
       "name": "T Sports",
       "logo": "https://i.ibb.co/bRj2TSXq/Picsart-25-03-29-15-30-25-144.jpg",
-      "url": "https://vkvsd14.okcdn.ru/cmaf/7966929783340/sig/x84muKF6EU4/expires/1740380574186/srcIp/172.69.178.72/urls/45.136.22.58/clientType/13/srcAg/CHROME/mid/9319446489900/get/hls_9319446489900.OnURj29hmec.m3u8"
+      "url": "https://live.tsports.com/mobile_hls/tsports_live_1/Mirajliv.m3u8"
     },
     {
       "name": "Willow",
